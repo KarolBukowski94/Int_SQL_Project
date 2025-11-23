@@ -36,7 +36,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **Visualization:**
 
-<img src="images/1_Customer_Segmentation.png" alt="Customer Segmentation" width="50%">
+<img src="images/1_Customer_Segmentation.png" alt="Customer Segmentation">
 
 **Key Findings:**
 
@@ -64,7 +64,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **Visualization:**
 
-<img src="images/2.0_Customer_Revenue_Normalized.png" alt="Customer Revenue Normalized" width="50%">
+<img src="images/2.0_Customer_Revenue_Normalized.png" alt="Customer Revenue Normalized">
 
 **Key Findings:**
 
@@ -77,7 +77,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **Visualization:**
 
-<img src="images/2.1_Quarter_Revenue_Customer_Trends.png" alt="Quarter Revenue & Customer Trends" width="50%">  
+<img src="images/2.1_Quarter_Revenue_Customer_Trends.png" alt="Quarter Revenue & Customer Trends">  
 
 **Key Findings:**
 
@@ -102,7 +102,7 @@ Query: [3_retention_analysis.sql](3_retention_analysis.sql)
 
 **Visualization:**
 
-<img src="images/3_Retention_Analysis.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
+<img src="images/3_Retention_Analysis.png" alt="Customer Churn by Cohort Year">
 
 **Key Findings:**
 
